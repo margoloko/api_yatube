@@ -25,3 +25,5 @@ To run the API locally, navigate to the project directory and run:
 ```
 python manage.py runserver
 ```
+### Автор:
+Балахонова Марина
