@@ -14,6 +14,8 @@ This project requires Python 3.8+ and Django 3.2+.
 After cloning the repository, create a virtual environment and activate it:
 ```
 python3 -m venv env
+```
+```
 source env/bin/activate
 ```
 Then, install the required packages:
